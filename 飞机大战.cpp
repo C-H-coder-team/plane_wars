@@ -5,9 +5,9 @@
 
 int main()  
 {  
-    //游戏准备  
-    srand((int)time(0));    //随机种子  
-    HideCursor();   //隐藏光标  
+    //娓告垙鍑嗗  
+    srand((int)time(0));    //闅忔満绉嶅瓙  
+    HideCursor();   //闅愯棌鍏夋爣  
     
     Game game;  
     int a = drawMenu();  
